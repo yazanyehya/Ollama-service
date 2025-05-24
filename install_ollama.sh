@@ -10,4 +10,5 @@ else
 fi
 
 # Pull model
-ollama pull gemma3:1b
+ollama pull phi4-mini
+

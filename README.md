@@ -6,4 +6,5 @@ This repo deploys the Ollama AI model service to an EC2 instance on AWS using Gi
 
 ```bash
 curl -fsSL https://ollama.com/install.sh | sh
-ollama pull gemma3:1b
+ollama pull phi4-mini
+
